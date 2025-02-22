@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1046" height="251" viewBox="0 0 1046 251">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 83.333px;
+        fill: #4285f4;
+        font-family: "Product Sans";
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #ea4335;
+      }
+
+      .cls-3 {
+        fill: #2c6e8a;
+      }
+
+      .cls-4 {
+        fill: #fbbc05;
+      }
+
+      .cls-5 {
+        fill: #34a853;
+      }
+
+      .cls-6 {
+        fill: #e93a2b;
+      }
+    </style>
+  </defs>
+  <text id="IT_Syaibar" data-name="IT Syaibar" class="cls-1" transform="translate(-7 193.129) scale(2.807 2.855)">I<tspan class="cls-2">T<tspan class="cls-3"> <tspan class="cls-4">S</tspan></tspan></tspan>y<tspan class="cls-5">a<tspan class="cls-6">i<tspan class="cls-4">b</tspan></tspan></tspan>a<tspan class="cls-2">r</tspan></text>
+</svg>
